@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "5/G84Eh7V7693YqLAoYp7aIpm9jgBLbDLrE3uBJtSBHAJYSc+k3EIv/hgtsQmGKzeEwWwxnZuHBX/YxaUXl7tQ==",
+  "success": true,
+  "projectFilePath": "/Users/natiqalhawmani/petates/petates/petates.csproj",
+  "expectedPackageFiles": [
+    "/Users/natiqalhawmani/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/natiqalhawmani/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.28/microsoft.netcore.app.host.osx-x64.3.1.28.nupkg.sha512",
+    "/Users/natiqalhawmani/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
